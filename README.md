@@ -87,7 +87,7 @@ The Tableau dashboard provides interactive analysis and visual exploration of Zo
 ## 📁 Project Structure
 
 ```text
-Zomato-Data-Analytics-
+Zomato-Data-Analytics/
 │
 ├── README.md
 │
@@ -102,3 +102,17 @@ Zomato-Data-Analytics-
 │
 └── Tableau
     └── Tableau Project.twbx
+
+---
+
+💡 Skills Demonstrated
+
+SQL data analysis
+Excel data cleaning and analysis
+Power BI dashboard development
+Tableau dashboard development
+Data visualization and business insights
+
+📌 Project Outcome
+
+Analyzed Zomato restaurant data to identify restaurant performance, ratings, pricing, booking availability, and opening trends, and presented the findings through interactive Power BI and Tableau dashboards.
