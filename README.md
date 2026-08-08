@@ -117,6 +117,8 @@ Data visualization and business insights
 
 Analyzed Zomato restaurant data to identify restaurant performance, ratings, pricing, booking availability, and opening trends, and presented the findings through interactive Power BI and Tableau dashboards.
 
+----
+
 ## 📊 Dashboard Preview
 
 ### Power BI Dashboard
