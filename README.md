@@ -122,9 +122,11 @@ Analyzed Zomato restaurant data to identify restaurant performance, ratings, pri
 
 ### Power BI Dashboard
 
-<img src="./PowerBI-Dashboard.png" alt="Power BI Dashboard" width="100%">
+<img width="1338" height="764" alt="PowerBI-Dashboard" src="https://github.com/user-attachments/assets/3617691b-773f-4966-8bb2-872caaf11756" />
+
 
 ### Tableau Dashboard
 
-<img src="./Tableau-Dashboard.png" alt="Tableau Dashboard" width="100%">
+<img width="1897" height="980" alt="Tableau-Dashboard" src="https://github.com/user-attachments/assets/c9f3f485-a85b-4746-8982-5af526ec3497" />
+
 
