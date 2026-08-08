@@ -84,49 +84,56 @@ The Tableau dashboard provides interactive analysis and visual exploration of Zo
 
 ---
 
-## 📁 Project Structure
-
-```text
-Zomato-Data-Analytics/
+## 📂 Project Structure
+Zomato-end-to-end-Data-Analytics/
 │
-├── README.md
-│
-├── Excel
-│   └── Zomato Excel FINAL.xlsx
-│
-├── Power BI
-│   └── Zomato Project PowerBI.pbix
-│
-├── SQL
-│   └── Zomato_SQL QUERIES (1).sql
-│
-└── Tableau
-    └── Tableau Project.twbx
+├── Data/
+│   └── Zomata Raw Data.xlsx
+├── SQL/
+│   └── Zomato SQL.sql
+├── PowerBI/
+│   └── PowerBI Final file.pbix
+├── Tableau/
+│   └── Tableau .twbx
+├── Images/
+│   ├── ExcelDashboard.jpg
+│   ├── PowerBIDashboard.jpg
+│   ├── TableauDashboard.jpg
+│   ├── SQL Image.jpg
+│   └── Relationship.jpg
+├── Documentation/
+│   └── ZOMATO GRP 4.pptx
+└── README.md
+📊 Project Workflow
+1️⃣ Data Collection & Cleaning
+ Imported raw data into Excel and SQL.
+ Removed duplicates, handled missing values, corrected data types, and standardized column names.
+2️⃣ SQL Analysis
+ Analyzed restaurant distribution by city and country.
+ Calculated rating distributions, cost averages, and vote counts.
+ Evaluated impact of online delivery and table booking features.
+3️⃣ Excel & Power BI Dashboards
+ Generated summary pivot reports and charts.
+ Built interactive KPI cards and cross-filtering dashboards.
+4️⃣ Tableau Visualizations
+ Created geographic map distributions and rating breakdown charts.
+📷 Dashboards & Visualizations
+Power BI Dashboard
+<img width="1338" height="764" alt="PowerBI-Dashboard" src="https://github.com/user-attachments/assets/58077c8a-79c0-4a67-809e-5db904acaf77" />
 
----
+Tableau Dashboard
+<img width="1897" height="980" alt="Tableau-Dashboard" src="https://github.com/user-attachments/assets/649170fd-977c-425c-88bb-d6ea78976883" />
 
-💡 Skills Demonstrated
-
-SQL data analysis
-Excel data cleaning and analysis
-Power BI dashboard development
-Tableau dashboard development
-Data visualization and business insights
-
-📌 Project Outcome
-
-Analyzed Zomato restaurant data to identify restaurant performance, ratings, pricing, booking availability, and opening trends, and presented the findings through interactive Power BI and Tableau dashboards.
+Excel Dashboard
+<img width="1862" height="668" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/81dabe1a-c07b-4a31-85a2-0d9c57a0283a" />
 
 
-## 📊 Dashboards & Visualizations
+Data Model & Relationships
+<img width="1804" height="748" alt="Data Modelling" src="https://github.com/user-attachments/assets/91ff5792-7d02-41c9-b687-0a225cc610e9" />
 
-### Power BI Dashboard
-
-<img width="1338" height="764" alt="PowerBI-Dashboard" src="https://github.com/user-attachments/assets/3617691b-773f-4966-8bb2-872caaf11756" />
-
-
-### Tableau Dashboard
-
-<img width="1897" height="980" alt="Tableau-Dashboard" src="https://github.com/user-attachments/assets/c9f3f485-a85b-4746-8982-5af526ec3497" />
+📈 Key Insights
+ Concentration: High density of restaurants concentrated in primary metro hubs.
+ Online Delivery: Restaurants offering online ordering consistently show higher engagement and ratings.
+ Pricing Strategy: Mid-range price tier restaurants receive the highest volume of customer reviews and overall high satisfaction scores.
 
 
