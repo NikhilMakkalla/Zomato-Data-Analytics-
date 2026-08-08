@@ -122,8 +122,8 @@ Analyzed Zomato restaurant data to identify restaurant performance, ratings, pri
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](./PowerBI%20Dashboard.png)
+![Power BI Dashboard](./PowerBI-Dashboard.png)
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](./Tableau%20Dashboard.png)
+![Tableau Dashboard](./Tableau-Dashboard.png)
